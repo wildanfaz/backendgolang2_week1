@@ -8,6 +8,6 @@ My first task with JavaScript
 git clone https://github.com/wildanfaz/backendgolang2_week1.git
 ```
     
-## Authors
+## Author
 
 - [@wildanfaz](https://www.github.com/wildanfaz)
